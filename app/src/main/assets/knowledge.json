@@ -1,0 +1,217 @@
+[
+  {
+    "keywords": ["hello", "hi", "hey", "greetings", "namaste", "hola", "bonjour"],
+    "question": "Hello",
+    "answer": "Hello! I am your Online AI Assistant. How can I help you today?"
+  },
+  {
+    "keywords": ["how are you", "status", "doing"],
+    "question": "How are you?",
+    "answer": "I am operating online and running smoothly! How can I assist you?"
+  },
+  {
+    "keywords": ["your name", "who are you", "what is your name"],
+    "question": "What is your name?",
+    "answer": "I am Online AI Chat Assistant created to help you answer questions and assist with tasks!"
+  },
+  {
+    "keywords": ["my name", "what is my name", "do you know my name"],
+    "question": "What is my name?",
+    "answer": "You haven't told me your name yet, but you can tell me and I will remember it!"
+  },
+  {
+    "keywords": ["sky", "colour of sky", "color of sky", "sky color", "sky colour", "why is sky blue"],
+    "question": "What is the colour of the sky?",
+    "answer": "The colour of the sky is blue during the day due to Rayleigh scattering. Sunlight reaches Earth's atmosphere and is scattered in all directions by gases and particles in the air; blue light is scattered more than other colors because it travels as shorter, smaller waves. At sunrise and sunset, it appears red or orange."
+  },
+  {
+    "keywords": ["pm of india", "prime minister of india", "who is pm of india", "narendra modi"],
+    "question": "Who is the Prime Minister of India?",
+    "answer": "The Prime Minister of India is Narendra Modi."
+  },
+  {
+    "keywords": ["capital of india", "india capital", "capital india"],
+    "question": "What is the capital of India?",
+    "answer": "The capital of India is New Delhi."
+  },
+  {
+    "keywords": ["president of india", "who is president of india", "droupadi murmu"],
+    "question": "Who is the President of India?",
+    "answer": "The President of India is Droupadi Murmu."
+  },
+  {
+    "keywords": ["capital of usa", "usa capital", "capital america"],
+    "question": "What is the capital of USA?",
+    "answer": "The capital of the United States of America is Washington, D.C."
+  },
+  {
+    "keywords": ["capital of france", "france capital", "paris"],
+    "question": "What is the capital of France?",
+    "answer": "The capital of France is Paris."
+  },
+  {
+    "keywords": ["capital of japan", "japan capital", "tokyo"],
+    "question": "What is the capital of Japan?",
+    "answer": "The capital of Japan is Tokyo."
+  },
+  {
+    "keywords": ["capital of maharashtra", "mumbai capital"],
+    "question": "What is the capital of Maharashtra?",
+    "answer": "The capital of Maharashtra is Mumbai."
+  },
+  {
+    "keywords": ["water", "colour of water", "color of water", "formula of water", "h2o"],
+    "question": "What is water?",
+    "answer": "Water is a transparent, odorless, inodorous liquid with the chemical formula H₂O. Pure water is clear/colorless in small quantities."
+  },
+  {
+    "keywords": ["sun", "what is sun", "sun light"],
+    "question": "What is the Sun?",
+    "answer": "The Sun is the star at the center of the Solar System. It is a nearly perfect hot plasma sphere that generates energy through nuclear fusion."
+  },
+  {
+    "keywords": ["moon", "what is moon"],
+    "question": "What is the Moon?",
+    "answer": "The Moon is Earth's only natural satellite, orbiting Earth at an average distance of about 384,400 km."
+  },
+  {
+    "keywords": ["array", "what is array", "data structure array"],
+    "question": "What is an array?",
+    "answer": "An array is a linear data structure that stores a collection of elements of the same data type in contiguous memory locations.\n\nExample in Java:\n```java\nint[] arr = {1, 2, 3, 4, 5};\nSystem.out.println(arr[0]); // Outputs 1\n```"
+  },
+  {
+    "keywords": ["linked list", "singly linked list", "doubly linked list"],
+    "question": "What is a Linked List?",
+    "answer": "A Linked List is a linear data structure where elements (nodes) are stored dynamically. Each node contains a data value and a pointer reference to the next node."
+  },
+  {
+    "keywords": ["stack", "lifo", "push pop"],
+    "question": "What is a Stack?",
+    "answer": "A Stack is a linear data structure following the Last In, First Out (LIFO) principle. Operations: push() adds elements, pop() removes top element."
+  },
+  {
+    "keywords": ["queue", "fifo", "enqueue dequeue"],
+    "question": "What is a Queue?",
+    "answer": "A Queue is a linear data structure following the First In, First Out (FIFO) principle. Operations: enqueue() adds at rear, dequeue() removes from front."
+  },
+  {
+    "keywords": ["hash map", "hashtable", "dictionary", "key value"],
+    "question": "What is a Hash Map?",
+    "answer": "A HashMap stores key-value pairs and uses a hashing function to achieve O(1) average lookup and insertion time complexity."
+  },
+  {
+    "keywords": ["tree", "binary tree", "bst"],
+    "question": "What is a Binary Search Tree?",
+    "answer": "A Binary Search Tree (BST) is a node-based tree structure where left child nodes contain values smaller than the parent node, and right child nodes contain larger values."
+  },
+  {
+    "keywords": ["python", "code python", "write python"],
+    "question": "Write python code",
+    "answer": "Here is a clean Python code example:\n```python\ndef greet(name):\n    return f'Hello, {name}!'\n\nprint(greet('Developer'))\n```"
+  },
+  {
+    "keywords": ["java", "code java", "write java"],
+    "question": "Write java code",
+    "answer": "Here is a clean Java code example:\n```java\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, Online Java!\");\n    }\n}\n```"
+  },
+  {
+    "keywords": ["kotlin", "code kotlin", "write kotlin"],
+    "question": "Write kotlin code",
+    "answer": "Here is a clean Kotlin code example:\n```kotlin\nfun main() {\n    val greeting = \"Hello, Kotlin!\"\n    println(greeting)\n}\n```"
+  },
+  {
+    "keywords": ["cpp", "c++", "code cpp"],
+    "question": "Write C++ code",
+    "answer": "Here is a C++ code snippet:\n```cpp\n#include <iostream>\nusing namespace std;\n\nint main() {\n    cout << \"Hello, C++!\" << endl;\n    return 0;\n}\n```"
+  },
+  {
+    "keywords": ["javascript", "js", "web code"],
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a high-level, dynamic programming language used for building client-side and server-side web applications."
+  },
+  {
+    "keywords": ["oop", "object oriented programming", "classes"],
+    "question": "What is Object-Oriented Programming (OOP)?",
+    "answer": "OOP is a programming paradigm based on objects containing data (attributes) and methods. Core pillars: Encapsulation, Abstraction, Inheritance, and Polymorphism."
+  },
+  {
+    "keywords": ["recursion", "recursive function"],
+    "question": "What is Recursion?",
+    "answer": "Recursion is a technique where a function calls itself to solve smaller sub-problems until reaching a base condition."
+  },
+  {
+    "keywords": ["sorting", "bubble sort", "quicksort"],
+    "question": "What is QuickSort?",
+    "answer": "QuickSort is a Divide and Conquer algorithm that picks a pivot element and partitions the array around it, achieving average O(n log n) complexity."
+  },
+  {
+    "keywords": ["android", "jetpack", "activity"],
+    "question": "What is an Android Activity?",
+    "answer": "An Activity represents a single screen with a user interface in Android, handling lifecycle callbacks like onCreate(), onStart(), onResume(), onPause(), onStop(), and onDestroy()."
+  },
+  {
+    "keywords": ["room database", "android room", "sqlite"],
+    "question": "What is Room Database?",
+    "answer": "Room is an Android Jetpack persistence library providing an abstraction layer over SQLite for robust database access."
+  },
+  {
+    "keywords": ["tensorflow lite", "tflite", "on-device ai"],
+    "question": "What is TensorFlow Lite?",
+    "answer": "TensorFlow Lite is a lightweight machine learning framework for executing trained models on mobile and IoT devices."
+  },
+  {
+    "keywords": ["ml kit", "google ml kit"],
+    "question": "What is Google ML Kit?",
+    "answer": "Google ML Kit is a mobile SDK providing vision and natural language processing machine learning features for Android and iOS apps."
+  },
+  {
+    "keywords": ["artificial intelligence", "ai"],
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence by machines, including learning, reasoning, and decision-making."
+  },
+  {
+    "keywords": ["machine learning", "ml"],
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a subset of AI that allows software applications to learn and improve performance from data automatically."
+  },
+  {
+    "keywords": ["deep learning", "neural network"],
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning uses multi-layered artificial neural networks to extract high-level representations from data."
+  },
+  {
+    "keywords": ["photosynthesis", "plants", "chlorophyll"],
+    "question": "What is Photosynthesis?",
+    "answer": "Photosynthesis is the process by which green plants use sunlight, carbon dioxide, and water to synthesize oxygen and glucose."
+  },
+  {
+    "keywords": ["gravity", "isaac newton"],
+    "question": "What is Gravity?",
+    "answer": "Gravity is a fundamental physical force that attracts objects with mass toward one another."
+  },
+  {
+    "keywords": ["einstein", "relativity"],
+    "question": "Who is Albert Einstein?",
+    "answer": "Albert Einstein was a Nobel Prize winning physicist known for developing the theory of relativity (E = mc²)."
+  },
+  {
+    "keywords": ["operating system", "os"],
+    "question": "What is an Operating System?",
+    "answer": "An Operating System (OS) is system software that manages computer hardware, software resources, and common services (e.g. Android, Windows, Linux)."
+  },
+  {
+    "keywords": ["database", "sql"],
+    "question": "What is SQL?",
+    "answer": "Structured Query Language (SQL) is a domain-specific language used for managing data in relational databases."
+  },
+  {
+    "keywords": ["http", "https", "web protocol"],
+    "question": "What is HTTPS?",
+    "answer": "HTTPS is the encrypted, secure version of the HTTP protocol used for transmitting data across the internet."
+  },
+  {
+    "keywords": ["help", "what can you do"],
+    "question": "What can you do?",
+    "answer": "I am Online AI Chat. I can tell you current time/date, answer questions about science, geography, programming, math, and converse in real time!"
+  }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ML Expert</string>
+    <string name="domain">MACHINE LEARNING</string>
+    <string name="welcome_message">Hello! I am your ML Expert. Ask me any Machine Learning question!</string>
+</resources>
