@@ -1,0 +1,181 @@
+﻿Diagnose log at 2026-10-12T10:22:18Z
+
+AppPath: C:\Users\Admin\AppData\Local\Programs\Git\ucrt64\bin\git-credential-manager.exe
+InstallDir: C:\Users\Admin\AppData\Local\Programs\Git\ucrt64\bin\
+Version: 2.9.1+6760f0ef069c994aa2bb1d703fb374986ee82a3e
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19045)
+Reading environment variables... OK
+ Variables:
+OneDriveConsumer=C:\Users\Admin\OneDrive
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+TMP=C:\Users\Admin\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+AGY_BROWSER_ACTIVE_PORT_FILE=C:\Users\Admin\AppData\Roaming\Antigravity\DevToolsActivePort
+USERDOMAIN=DESKTOP-0UQ14OC
+PROCESSOR_REVISION=1801
+ANTIGRAVITY_SOURCE_METADATA={"tool":{"conversationId":"54ab085e-1303-4870-8a6c-79390a0a1512", "stepIndex":188, "toolCall":{"id":"call_668770", "name":"run_command", "argumentsJson":"{\"CommandLine\":\"$env:Path = \\\"$env:LOCALAPPDATA\\\\Programs\\\\Git\\\\cmd;$env:LOCALAPPDATA\\\\Programs\\\\Git\\\\ucrt64\\\\bin;\\\" + $env:Path\\ngit-credential-manager diagnose\\nGet-Content gcm-diagnose.log\\n\",\"Cwd\":\"c:\\\\Users\\\\Admin\\\\AndroidStudioProjects\\\\gpt\",\"IsDaemon\":false,\"WaitMsBeforeAsync\":8000,\"toolAction\":\"Running diagnose and reading log\",\"toolSummary\":\"Run diagnose and read log\"}", "thinkingSignature":"EsQBCsEBAWkUfRMIN3ueUq9t7JV0sBxi2p+a29DWyMVqWlaSoENE778UAHpVjBYSVfrBYY8Q+wBCeN9xjapjR14Wg70h6eUuhnjCrVcYz9nUzzP/4fSX9i+A+CgZueswB3OfsCpL0TEtRCuz6Udn1RxtVXlBtfVZZ9cwVyG9XaodfSTXo62gC51Y0mkOAV928EYYODR6poInIpjAaNcc0ltpO5x160zE/7OyNZPA5xJh2VQ9+5QnS6MumhkmZYGxUJyu+M41+g=="}}}
+TEMP=C:\Users\Admin\AppData\Local\Temp
+USERPROFILE=C:\Users\Admin
+LOGONSERVER=\\DESKTOP-0UQ14OC
+USERNAME=Admin
+SystemRoot=C:\Windows
+AGY_BROWSER_WS_URL=ws://127.0.0.1:59694/devtools/browser/fbc5092d-9278-43fd-ac78-86df8a74b82a
+PATH=C:\Users\Admin\AppData\Local\Programs\Git\cmd;C:\Users\Admin\AppData\Local\Programs\Git\ucrt64\bin;C:/Users/Admin/.gemini/antigravity/bin;C:\Users\Admin\AppData\Roaming\Antigravity\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Admin\.local\bin;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin
+OneDrive=C:\Users\Admin\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramFiles=C:\Program Files\Common Files
+ANTIGRAVITY_TRAJECTORY_ID=347f39c7-f442-4fbb-a117-9adea7c4de5e
+ANTIGRAVITY_LS_ADDRESS=localhost:59699
+ProgramData=C:\ProgramData
+HOMEPATH=\Users\Admin
+ANTIGRAVITY_APP_DATA_DIR=C:/Users/Admin/.gemini/antigravity
+COMPUTERNAME=DESKTOP-0UQ14OC
+ANTIGRAVITY_AGENT=1
+CommonProgramW6432=C:\Program Files\Common Files
+SESSIONNAME=Console
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+windir=C:\Windows
+GIT_TRACE2_PARENT_SID=53f2059f-2316-475f-a5bb-a53ff3611888
+SystemDrive=C:
+NUMBER_OF_PROCESSORS=8
+OS=Windows_NT
+ProgramFiles=C:\Program Files
+ComSpec=C:\Windows\system32\cmd.exe
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-0UQ14OC
+CHROME_DEVTOOLS_MCP_JS=C:\Users\Admin\AppData\Local\Programs\antigravity\resources\app.asar.unpacked\node_modules\chrome-devtools-mcp\build\src\bin\chrome-devtools-mcp.js
+PSModulePath=C:\Users\Admin\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+ANTIGRAVITY_CSRF_TOKEN=ea1e5b9f-ea48-4ec1-b5ae-976e6eae980e
+ANTIGRAVITY_CONVERSATION_ID=54ab085e-1303-4870-8a6c-79390a0a1512
+APPDATA=C:\Users\Admin\AppData\Roaming
+ANTIGRAVITY_PROJECT_ID=faff015c-4f33-455d-8ebc-4e28b3da48c5
+PROCESSOR_LEVEL=23
+LOCALAPPDATA=C:\Users\Admin\AppData\Local
+ANTIGRAVITY_AGENTAPI_EXE=C:\Users\Admin\AppData\Local\Programs\antigravity\resources\bin\language_server.exe
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+PUBLIC=C:\Users\Public
+ANTIGRAVITY_LS_VERSION=hub-2.19.1
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Admin\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Admin\AppData\Local\Temp\887e4272887a222ee306e3c8'... OK
+Reading from temporary file 'C:\Users\Admin\AppData\Local\Temp\887e4272887a222ee306e3c8'... OK
+Deleting temporary file 'C:\Users\Admin\AppData\Local\Temp\887e4272887a222ee306e3c8'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Admin
+UserDataDirectoryPath: C:\Users\Admin\.gcm
+GetCurrentDirectory(): C:\Users\Admin\AndroidStudioProjects\gpt
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:56554/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.56.0.windows.2'
+Locating current repository...Git repository at 'C:/Users/Admin/AndroidStudioProjects/gpt/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	core.symlinks=false
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	color.interactive=true
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	color.ui=auto
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	pack.packsizelimit=2g
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	help.format=html
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	rebase.autosquash=true
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	credential.helper=manager
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	include.path=C:/Program Files (x86)/Git/etc/gitconfig
+file:C:/Users/Admin/AppData/Local/Programs/Git/etc/gitconfig	include.path=C:/Program Files/Git/etc/gitconfig
+file:C:/Users/Admin/.gitconfig	credential.guiprompt=false
+file:C:/Users/Admin/.gitconfig	credential.github.authmodes=device
+file:C:/Users/Admin/.gitconfig	http.sslbackend=schannel
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/chougulesanjana720-pixel/gpt-android-app.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	user.name=chougulesanjana720-pixel
+file:.git/config	user.email=chougulesanjana720-pixel@users.noreply.github.com
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Admin\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Admin\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
